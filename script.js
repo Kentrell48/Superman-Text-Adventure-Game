@@ -42,7 +42,7 @@ function selectOption(option) {
 const textNodes = [
   {
     id: 1,
-    text: 'Supermans powers are not as strong as they usually are, he needs help, he has two people in mind.',
+    text: 'Superman\'s powers are not as strong as they usually are, he needs help, he has two people in mind.',
     options: [
       {
         text: 'Batman',
